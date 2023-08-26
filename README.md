@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-### Welcome to my github profile 🤡🤡
+### Welcome to my github profile 
 
-### I am it-raining 🐧
+### I am Khoa, a freshman trying to use github 🐧
+![283340285_1013536712628788_3373083102236786509_n](https://github.com/it-raining/it-raining/assets/86819208/9ba171f2-de92-49f1-86bb-82dfa078bf34)
 
 <!--
 **it-raining/it-raining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

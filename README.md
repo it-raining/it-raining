@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### Welcome to my github profile 
-
-### I am Khoa, a freshman trying to use github 🐧
+### I'm Khoa
 ![283340285_1013536712628788_3373083102236786509_n](https://github.com/it-raining/it-raining/assets/86819208/9ba171f2-de92-49f1-86bb-82dfa078bf34)
 
 <!--
